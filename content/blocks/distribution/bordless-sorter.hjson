@@ -1,0 +1,8 @@
+type: Sorter
+health: 50
+speed: 2
+capacity: 10
+requirements: [
+  copper/8
+] 
+category: distribution
